@@ -7,11 +7,11 @@ const nextConfig = {
     name: 'Novacore Technologies',
     description: 'The official store for Kasm supported workspaces. By Novacore Technologies',
     icon: '/img/logo.svg',
-    listUrl: ' https://mmaddox93.github.io/workspace/ ',
+    listUrl: 'https://spaces.novanexus.site/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
-  basePath: '/workspace/1.0',
+  basePath: '/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
